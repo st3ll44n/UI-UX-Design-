@@ -1,14 +1,51 @@
-# UI/UX Design
-Repositório para aprendizado de UI/UX design
+# Projeto Green Tech
 
-### Aula 1 
-Aula para introdução ás funcionalidades do design e seus fins; Apresentação a plataforma do Figma.
+## Programadora e Gerente de projetos
 
-### Aula 2
-Aula sobre como criar um Briefing e sua importância no projeto de design
+- Stella A.
 
-### Aula 3
-Aula sobre como fazer banner
+## Marca
 
-### Aula 4
-Aula sobre 
+- Green Tech
+
+## Objetivos
+
+- Trazer soluções sociossustentaveis a empresas
+- Promover o ideal de sustentabilidade no meio industrial
+
+## Orçamento
+
+Custo estipulado: 109.000 total
+
+- Hospedagem de Site - RS1000,00
+- Front - RS 25.000,00
+- Back -RS 25.000,00
+- Banco de dados - RS 40.000,00
+- Marketing- RS 20.000,00
+
+## Prazo
+
+Serão voltados 3 meses para o desenvolvimento do projeto com até 1 mês adicional para revisão e correção de erros 
+
+## Ferramentas
+
+- Visual Studio Code (front)
+- Figma
+- UI/UX
+- Ferramentas de computador (teclado, mouse, monitor, gabinete e CPU)
+- Instagram
+- Tik Tok
+- WhatsApp (comunidade/chats)
+- Twitter
+
+## Público Alvo
+
+- Voltado a empresários de grandes e médias empresas 
+
+## Páginas a serem executadas
+
+- [ ]  Home
+- [ ]  Catálogo com produtos
+- [ ]  Pagina do produto 
+- [ ]  Perfil 
+
